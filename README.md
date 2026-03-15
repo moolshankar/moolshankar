@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moolshankar
 - 👀 Expertise: Software development, design and architecture.
 - 🌱 Current projects: SRE, Machine learning and image processing.
-- 💞️ Always exploring open source projects and nextgen technologies. 
+- 💞️ Always exploring open source projects and cutting-edge technologies. 
 - 📫 https://www.linkedin.com/in/moolshankar
 
 <!---
